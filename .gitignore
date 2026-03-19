@@ -1,0 +1,101 @@
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# =========================
+# Compiled files
+# =========================
+*.o
+*.so
+*.dll
+*.exe
+*.out
+
+# =========================
+# Cache
+# =========================
+.cache/
+*.cache
+
+# =========================
+# Coverage reports
+# =========================
+coverage/
+htmlcov/
+.coverage
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Database files
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# Misc
+# =========================
+*.bak
+*.swp
+*.swo
